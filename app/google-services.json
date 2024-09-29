@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "133961025847",
+    "firebase_url": "https://rpip-8cd38-default-rtdb.firebaseio.com",
+    "project_id": "rpip-8cd38",
+    "storage_bucket": "rpip-8cd38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133961025847:android:546734770ff2f161cc32b2",
+        "android_client_info": {
+          "package_name": "co.kr.rtsp_data"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LhMMqTTYcYoQ17HhnfhTo8df_TWbUF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
